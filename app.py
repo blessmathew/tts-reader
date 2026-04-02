@@ -463,4 +463,4 @@ if __name__ == "__main__":
     print("║  Phone : http://192.168.1.34:5050     ║")
     print("║  (phone must be on same Wi-Fi)        ║")
     print("╚══════════════════════════════════════╝\n")
-    app.run(host="0.0.0.0", port=5050, debug=False, threaded=True)
+    app.run(host="0.0.0.0", port=10000, debug=False, threaded=True)
